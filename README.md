@@ -27,16 +27,16 @@ Sum the total of the substrings that respect the previous point.
 
 |Substring|Mapping|Sum|Length|Divisible|
 |---|---|---|---|---|---|
-|a|1|1|1|**Yes**
-|as|1,7|8|2|**Yes**
-|asd|1,7,2|10|3|No
-|asdf|1,7,2,3|13|4|No
-|s|7|7|1|**Yes**
-|sd|7,2|9|2|No
-|sdf|7,2,3|12|3|**Yes**
-|d|2|2|1|**Yes**
-|df|2,3|5|2|No
-|f|3|3|1|**Yes**
+|a|1|1|1|**Yes**|
+|as|1,7|8|2|**Yes**|
+|asd|1,7,2|10|3|No|
+|asdf|1,7,2,3|13|4|No|
+|s|7|7|1|**Yes**|
+|sd|7,2|9|2|No|
+|sdf|7,2,3|12|3|**Yes**|
+|d|2|2|1|**Yes**|
+|df|2,3|5|2|No|
+|f|3|3|1|**Yes**|
 
 *Output:* **6**
 
