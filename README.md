@@ -24,6 +24,7 @@ Sum the total of the substrings that respect the previous point.
 #### Example
 *Input string:* **asdf**
 ##### Substrings
+Table:
 
 | Substring | Mapping | Sum | Length | Divisible |
 | --- | --- | --- | --- | --- | --- |
