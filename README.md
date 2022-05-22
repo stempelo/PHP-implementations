@@ -27,8 +27,8 @@ Sum the total of the substrings that respect the previous point.
 Table:
 
 | Substring | Mapping | Sum | Length | Divisible |
-| --- | --- | --- | --- | --- | --- |
-| a | 1 | 1 | 1 | **Yes** |
+| --------- | ------- | --- | ------ | --------- |
+| a   | 1   | 1   | 1 | **Yes** |
 | as | 1,7 | 8 | 2 | **Yes** |
 | asd | 1,7,2 | 10 | 3 | No |
 | asdf | 1,7,2,3 | 13 | 4 | No |
@@ -40,16 +40,6 @@ Table:
 | f | 3 | 3 | 1 | **Yes** |
 
 *Output:* **6**
-
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-
-
-
-
 
 
  
